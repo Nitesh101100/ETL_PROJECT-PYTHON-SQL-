@@ -8,8 +8,6 @@
 #!pip install kaggle
 import kaggle
 
-!kaggle datasets download ankitbansal06/retail-orders -f orders.csv
-
 
 # In[77]:
 
@@ -69,7 +67,7 @@ df.drop(columns=['list_price','cost_price','discount_percent'],inplace=True)
 
 #load the data into sql server using replace option
 import sqlalchemy as sal
-engine = sal.create_engine('mssql://ANKIT\SQLEXPRESS/master?driver=ODBC+DRIVER+17+FOR+SQL+SERVER')
+engine = sal.create_engine('mssql://NITESH\SQLEXPRESS/master?driver=ODBC+DRIVER+17+FOR+SQL+SERVER')
 conn=engine.connect()
 
 
