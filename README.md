@@ -1,6 +1,5 @@
 # Retail_Sales_Data_Analysis_Project - ETL Project 
 
-It is a ETL project where i extract the data from Kaggle api and transform the data using python(pandas) and Load the data in database .
 This project involved working with retail sales data to generate actionable insights using the following technologies:
 
 1️⃣ Data Extraction: Utilized the Kaggle API for efficient data download.
