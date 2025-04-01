@@ -20,3 +20,7 @@ ETL is the foundation of data-driven decision-making. Without it, data remains m
 3️⃣ Loaded into a destination ready for analysis.
 
 It’s the backbone of any data project, helping turn raw data into meaningful insights. 
+
+
+![image](https://github.com/user-attachments/assets/f7fb4c09-e305-4944-bf47-bc5f4bc951c8)
+
